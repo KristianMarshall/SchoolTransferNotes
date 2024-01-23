@@ -66,4 +66,18 @@ Most come with transport from the airport to your accommodations
     <img src="https://github.com/KristianMarshall/SchoolTransferNotes/assets/113186609/f7bcdeae-2b81-46ff-bfb3-596fafc7e3c1" alt="RGU" width="300" style="border-radius: 50px" >
   </a>
 
-  \* Not verified yet just means I found the course on their website but KOM doesnt actaully list the pathway on their website
+### University Gloucestershire - UOG - Cheltenham, England
+
+(Not verified yet\*)
+
+**Tuition Fees**: £15,450 - $26,400 ([Possible £5,000 discount?](https://komconsultants.com/college-transfer/united-kingdom-college-transfers/university-of-gloucestershire-transfer/#:~:text=Progression%20Partner%20Award%20of%20%C2%A35%2C000%20which%20is%20automatically%20deducted%20from%20tuition%20fees))
+
+**Degree**: Bachelor of Science (Honours) in Computer Science
+
+- [Main Website](https://www.glos.ac.uk/)
+- [Course Page](https://www.glos.ac.uk/courses/course/cus-bsc-computer-science/bsc-hons-computer-science-4y-ft-with-foundation/)
+- <a href="https://maps.app.goo.gl/siUWEXZMjQbGbi3U9">
+    <img src="" alt="RGU" width="300" style="border-radius: 50px" >
+  </a>
+
+\* Not verified yet just means I found the course on their website but KOM doesn't actually list the pathway on their website
