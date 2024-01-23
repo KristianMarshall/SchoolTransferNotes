@@ -15,7 +15,8 @@ Most come with transport from the airport to your accommodations
 **Degree**: Bachelor of Science (Honours) in Software Development
 
 - [Main Website](https://www.mtu.ie/)
-- [Course List](https://mtu.akarisoftware.com/index.cfm/page/course/courseId/2850#:~:text=Stage%204%20/%20Semester%201)
+- [Course Page](https://www.mtu.ie/courses/mt800/#modules)
+    - [Course List](https://mtu.akarisoftware.com/index.cfm/page/course/courseId/2850#:~:text=Stage%204%20/%20Semester%201)
 - <a href="https://maps.app.goo.gl/ABzHNsBFZyTFa5ao7">
     <img src="https://github.com/KristianMarshall/SchoolTransferNotes/assets/113186609/c2a9a3f8-e119-4d97-bc25-e79cedb2181a" alt="MTU" width="300" style="border-radius: 50px" >
   </a>
