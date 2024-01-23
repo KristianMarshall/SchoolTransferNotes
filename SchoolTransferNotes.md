@@ -70,7 +70,7 @@ Most come with transport from the airport to your accommodations
 
 (Not verified yet\*)
 
-**Tuition Fees**: £15,450 - $26,400 ([Possible £5,000 discount?](https://komconsultants.com/college-transfer/united-kingdom-college-transfers/university-of-gloucestershire-transfer/#:~:text=Progression%20Partner%20Award%20of%20%C2%A35%2C000%20which%20is%20automatically%20deducted%20from%20tuition%20fees))
+**Tuition Fees**: £15,450 - $26,400 ($17,900 with [Possible £5,000 discount?](https://komconsultants.com/college-transfer/united-kingdom-college-transfers/university-of-gloucestershire-transfer/#:~:text=Progression%20Partner%20Award%20of%20%C2%A35%2C000%20which%20is%20automatically%20deducted%20from%20tuition%20fees))
 
 **Degree**: Bachelor of Science (Honours) in Computer Science
 
