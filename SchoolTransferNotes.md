@@ -4,11 +4,13 @@ OSAP offers up to $10k for post-secondary education outside Canada
 
 [KOM Education Consultants](https://komconsultants.com/) is the company that helps with the transfer process
 
+Most come with transport from the airport to your accommodations
+
 ## Ireland
 
 ### Munster Technological University - MTU
 
-**Tuition Fees**: €12,500 - $18,300
+**Tuition Fees**: €12,500 - $18,300 (Accommodations included)
 
 **Degree**: Bachelor of Science (Honours) in Software Development
 
@@ -22,7 +24,7 @@ OSAP offers up to $10k for post-secondary education outside Canada
 
 (Not verified yet but probably right\*)
 
-**Tuition Fees**: €8,500 - $12,500
+**Tuition Fees**: €8,500 - $12,500 (€2,000 discount applied)
 
 **Degree**: Bachelor of Science (Honours) in Software Development
 
@@ -35,6 +37,8 @@ OSAP offers up to $10k for post-secondary education outside Canada
 ### South East Technological University - SETU
 
 (Not verified yet\*)
+
+**Tuition Fees**: €8,500 - $12,500
 
 **Degree**: Bachelor of Science (Honours) in Software Development
 
@@ -51,7 +55,7 @@ OSAP offers up to $10k for post-secondary education outside Canada
 
 (Not verified yet\*)
 
-**Tuition Fees**: £12,720 - $18,600
+**Tuition Fees**: £12,720 - $21,800 (£5,000 discount applied)
 
 **Degree**: Bachelor of Science (Honours) in Computer Science
 
