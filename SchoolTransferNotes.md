@@ -7,6 +7,7 @@ OSAP offers up to $10k for post-secondary education outside Canada
 ### Munster Technological University - MTU
 
 **Tuition Fees**: €12,500 - $18,300
+
 **Degree**: Bachelor of Science (Honours) in Software Development
 
 - [Main Website](https://www.mtu.ie/)
@@ -17,9 +18,10 @@ OSAP offers up to $10k for post-secondary education outside Canada
 
 ### Atlantic Technological University - ATU
 
-(Not verified yet)
+(Not verified yet but probably right*)
 
 **Tuition Fees**: €8,500 - $12,500
+
 **Degree**: Bachelor of Science (Honours) in Software Development
 
 - [Main Website](https://www.gmit.ie/)
@@ -30,7 +32,7 @@ OSAP offers up to $10k for post-secondary education outside Canada
 
 ### South East Technological University - SETU
 
-(Not verified yet)
+(Not verified yet*)
 
 **Degree**: Bachelor of Science (Honours) in Software Development
 
@@ -45,9 +47,10 @@ OSAP offers up to $10k for post-secondary education outside Canada
 
 ### Robert Gordon University - RGU - Aberdeen, Scotland
 
-(Not verified yet)
+(Not verified yet*)
 
 **Tuition Fees**: £12,720 - $18,600
+
 **Degree**: Bachelor of Science (Honours) in Computer Science
 
 - [Main Website](https://www.rgu.ac.uk/)
@@ -56,3 +59,7 @@ OSAP offers up to $10k for post-secondary education outside Canada
 - <a href="https://maps.app.goo.gl/f1vM8H7z3o6JTMz77">
     <img src="https://github.com/KristianMarshall/SchoolTransferNotes/assets/113186609/f7bcdeae-2b81-46ff-bfb3-596fafc7e3c1" alt="RGU" width="300">
   </a>
+
+
+
+  \* Not verified yet just means I found the course on their website but KOM doesnt actaully list the pathway on their website
