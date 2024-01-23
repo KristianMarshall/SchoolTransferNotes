@@ -77,7 +77,7 @@ Most come with transport from the airport to your accommodations
 - [Main Website](https://www.glos.ac.uk/)
 - [Course Page](https://www.glos.ac.uk/courses/course/cus-bsc-computer-science/bsc-hons-computer-science-4y-ft-with-foundation/)
 - <a href="https://maps.app.goo.gl/siUWEXZMjQbGbi3U9">
-    <img src="" alt="RGU" width="300" style="border-radius: 50px" >
+    <img src="https://github.com/KristianMarshall/SchoolTransferNotes/assets/113186609/10c3db09-248e-44aa-ab8e-87f58cff1529" alt="RGU" width="300" style="border-radius: 50px" >
   </a>
 
 \* Not verified yet just means I found the course on their website but KOM doesn't actually list the pathway on their website
